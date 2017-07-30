@@ -1,0 +1,25 @@
+{
+  "name": "webpack_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrChukhray/webpack_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrChukhray/webpack_tutorial/issues"
+  },
+  "homepage": "https://github.com/AleksandrChukhray/webpack_tutorial#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "webpack": "^3.4.1"
+  }
+}
