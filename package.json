@@ -19,7 +19,13 @@
   },
   "homepage": "https://github.com/AleksandrChukhray/webpack_tutorial#readme",
   "devDependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^0.11.2",
+    "handlebars": "^4.0.10",
+    "handlebars-loader": "^1.5.0",
     "lodash": "^4.17.4",
+    "style-loader": "^0.18.2",
     "webpack": "^3.4.1"
   }
 }
